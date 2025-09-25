@@ -230,7 +230,7 @@ public partial class Analytics
     
     
     
-      private RadzenDataGrid<PurchaseOrderClass> poGrid;
+    private RadzenDataGrid<PurchaseOrderClass> poGrid;
     private List<PurchaseOrderClass> purchaseOrders = new();
     private List<string> poNumbers = new();
     private string searchTermPo = "";

@@ -104,6 +104,10 @@ a, .btn-link {
     font-family: 'Poppins', sans-serif;
 }
 
+font-inter {
+    font-family: 'Inter', sans-serif;
+}
+
 /*Header Styles*/
 .header-style {
     background-color: #0605AB;
@@ -323,7 +327,7 @@ a, .btn-link {
         font-size: 15px;
         margin: 0;
         font-weight: 600;
-        color: #4269E2;
+        color: green;
     }
 
 .id-search {
